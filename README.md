@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0125-valid-palindrome](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/naveen-nk11/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
